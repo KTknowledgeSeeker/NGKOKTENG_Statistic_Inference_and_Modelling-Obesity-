@@ -1,0 +1,595 @@
+\documentclass{article}
+
+\title{Trend of Obesity in United Stated of America}
+\author{CHONG WAI KIAT, KOH ZI ANG, PENG HU NING,\\
+TAN GIAN BOON, NG KOK TENG}
+\date{}
+
+
+\begin{document}
+
+\maketitle{}
+
+
+\section{Abstract}
+The main research target is a negative medical condition which is called obesity. According to the major researches, there have shown over 33 percent of adults in the United State of America are facing the problem of being overweight and obese, or in an unhealthy diest situation. Hence, we are going to do a study about the trend of obesity in the United State of America. Besides, the dataset which has been used in this study paper was obtained from the Centers for Disease Control and Prevention (CDC) and World Health Organization (WHO). In this study paper, there has linked the relationship between the issues of overweight and the Body-Mass Index (BMI) together, and also obesity and other negative health condition will be discussed. The problems are related statistics will also be provided in order to support the view of the trend of the overweight situation in the United State of America.\\
+
+\section{Introduction of the study paper}
+In this report, we will discuss obesity and the trend of the overweight situation in the United States of America, as in statistical information. The main outcome is to raise awareness in order to reduce the risk of people being obese and show how overweight is severity in the USA by providing enough statistics results and graphs.\\
+Obesity is well-known health affecting medical condition that increases the risk of getting other diseases. It is very famous compared to other negative medical conditions because of how common it is in the current society. The United States seems to have the highest rate of obesity prevalence that as shown in the research paper.\\
+One of the main effective solutions to obesity is to gather the power of professionals. For example, a physician can do a risk analysis report as an initial statement for other professionals to refer to. A pharmacotherapy, surgery, and any follow-up medical management could be suggested in the report. Other than that, physicians can and should take on the role of assisting other professionals. This will help the operation proceed quicker.\\
+These professionals will provide dietary control, sports activities, and behavior-changing supports during the weight adjustment period. They can form a team in order to supervise their participant together, or can be done by an indirect referral way. After all, positive and supportive energy must be provided to the participants in order to make the patient go through all these difficulties.\\
+
+\section{Objective of Study}
+	According to the World Health Organization (WHO) ever since 1975, the cases of people diagnosed with obesity happened around the world had been tripled. In 2016, the cases of people diagnosed with obesity had more than 1.9 billion adults, teenagers, and any age group having issues of Obesity. The main objective of this project is used to find out more in detail and do the prediction and trend about Obesity, which age group has happened obesity frequently, and the relationship between the Body-Mass Index and Obesity in the United States of America (USA).\\
+	Obesity can be defined as overweight, that is having an excess of body fat. In the research paper which had found from WHO, that has shown the country having the highest rate of Obesity in North America is the USA that is related to their physical activities and daily diet. Besides, the research paper has also shown there has the percentage of obesity in different gender, the result has shown 64 percent of males and 65 percent of females are prevalence obese.\\
+  To find out the factors contributing to diabetes there's a lot of things to keep in mind. The age group of highest risk of having obesity, the genetics passing down from families, the amount of exercise each individual does, the diet habits of each individual and etc. method used to measure the factors, in short, there is Bioelectric impedance, under weighing method, Air displacement plethysmography, dilution method, and body mass index.\\
+	The variables that have used to perform the measurement and modeling the data were Body Mass Index (BMI) and the percentage of obesity, these are required some data to perform the calculation to get these two variables. The data could be the percentage of human body fat, height (cm), weight (kg), age (years old), and gender (male or female), this kind of data should use the BMI formula to calculate and get the final result. The way to determine the person has the prevalence of obesity can refer to the BMI result, there has listed down the standard point to define the people is obese or not.\\
+	In the article "Obesity during the COVID-19 pandemic" the research has found that the Obesity rate is still up due to the lockdown period whereas forcing individuals to not have the abilities to gain space for activities like walking, morning jogs.\\
+	In the article "BMI-for-age graphs with severe obesity" the research has created BMI graphing tools to clearly specify the age group and the gender to display the percentile curves. The software used are SAS and R to perform two choices of different graphic tools. This tool is to measure the age group of 2 to 20 years old with the BMI of more than 35kg/$m^2$.\\
+	In the "Spatial index relating urban environment to a healthy lifestyle and obesity risk in men and women from different age groups" the factors needed to be measure is each individual's daily activities and defining the age group's lifestyle. The method used to identify obesity is using Pearson's coefficient of variance, standard errors, and dispersion to add to the confirmation, they've also used the overlay method to implement the physical and demographic analysis. Thus, the result is able to accurately get the BMI of different age groups and gender. The result also shown calculated the BMI of a population. The most basic method stated is using BMI. With more complicated methods, such as dual X-ray absorptiometry are known as reference measurement.\\
+  The limitation of the study is that through all these articles they're only able to calculate the groups having the highest chances prone to obesity. While some articles did show some ways to minimize the chances of diagnosed with obesity and that is by exercising and correcting the way of eating as well as eating healthy meals, so no harmful fats will be build up inside a body. The researchers have noticed obesity is only prone to a group like a family. They are still yet to find more regarding the genes that obsessed people contain, as it is carried from generation to generation. Patients with obesity are most likely having a high chance of having diabetes according to WHO.\\
+
+\section{Literature Review}
+	This literature review is used to do research about how obesity is seriously happening around the world and which age range is happening obesity seriously, there have also shown what influences do obesity will carry out and influence human health. In this project of the literature review, there has used a couple of scholastic article review those are about what influences does obesity will carry out and does their daily habit and behavior will influence their weight and cause them to become obesity and overweight.\\
+	The scholastic article review which is found from the website source its name called Obesity during the COVID-19 pandemic: cause of high risk or an effect of lockdown? A population-based electronic health record analysis in 1 958 184 individuals June 2020, there has done research about obesity is also a risk of factors to cause mortality in the disease of the COVID-19. There has estimated overdose rate of mortality due to obesity, both "direct", "through infection", and "indirect", via modifies in the healthcare, and also because of the increasing of obesity issues during the period of lockdown. The following analysis result has shown support to COVID-19 and non-COVID-19 in the planning of policy during the pandemic. This research was using different methods to do the analysis task and data collection which is the causal inference models to estimate the effect of the modify in body-mass index (BMI) and the physical activity of the people during the period of lockdown for 3 months long. Besides, there has also used the Cox regression models and logistic regression for adjusting the conditions of the mental health, cancer, and other which has been recorded in the previous BMI measurement reports that had been collected from the people and do the checking purpose to the BMI changes during the 3 months of the lockdown period. The risk of transition to a BMI category over 3 months was higher in younger individuals and those who were closer to the cutoffs of transition. The result that has to obtain is the underestimation of BMI gain and development of high-risk conditions.\\
+	The second scholastic article review that has found from the website source, its called BMI-for-age graphs with severe obesity percentile curves: Tools for plotting cross-sectional and longitudinal youth BMI data. (n.d.). BMC Pediatrics, this article is used to do the research about the serious obesity is a vital and different weight stat systematics that is associated with the risk of getting the disease and increasing in prevalence in the age group of teenagers and children. This scholastic article review aimed to establish the Body-Mass Index (BMI) graphing tools to produce the gender-specific BMI-for-age graph that includes serious obesity and normal weight display by using the curves in percentile. Besides, there has used two types of statistical software to perform the capacity of statistic and create two choices of different graphing tools, which are SAS and R studio. There had used some tool for graphic purposes to establish the graph of gender-specific BMI-forage for females and males, and the research targets' age range is between 2 and less than 20 years old. The side of the novel of these tools is an extended BMI range to contain the values of BMI more than 35kg/m$^2$, the capacity to produce the specific data for thousands of children and teenagers on a single graph, and the capacity to produce the cross-sectional and longitudinal graphs.\\
+	The third scholastic article review is called Spatial index relating urban environment to health lifestyle and obesity risk in men and women from different age groups March 2020, this article objectives were to establish an urban index for the people's who are living in urban daily activity and to define how it relevant to the human lifestyle and the obesity anthropometric parametrization. There had used the method which is called the least-squares method that is related to the BMI parameter with AbC, the frequency of weekly, and session duration, considering the influence of gender and age, weighted or not by the Spatial Urban Health Index (SUHI). This article was using different statistical ways which are Pearson's coefficient, sample adjusted coefficient of variance, and standard error of the estimate to calculate the correlation values, measurements of variability, and dispersion to ensure confidence. Besides, there has also used the multi-criteria overlay method to implement the elements of the physical and demographic analysis parameter and plot the mapping of the SUHI. The result has displayed the measurement of the human body index by BMI for different gender and separated into different age groups. The result has shown which has referred from the BMI of the population, 69.5 percent were categorized as eutrophic or obesity.\\
+	The fourth scholastic article review which has been found from the website source is called Trends in obesity among adults in the United States, 2005 to 2014. (2016, June 7). JAMA Network | Home of JAMA and the Specialty Journals of the American Medical Association, this article was used to assess the prevalence of obesity for the data from 2013 to 2014 and predict the trend from the physical and daily activity, age, and gender of respondents. There had used the Taylor series linearization to estimate the standard errors. In this article, there had set the standard point to determine the people has the prevalence of obesity or not, if the BMI is over or equal to 30 that could be seen as class 1 obesity, and the BMI is over or equal to 40 that could be seen as class 3 obesity. The meaning of statistical was defined by using the Satterthwaite F statistic to perform the statistical task, and this article had also used the Korn and Graubard method to estimate the intervals of confidence. There has used the dataset which obtains from the NHANES from 2013 to 2014, the result this research paper has shown the prevalence of obesity was 37.7 percent; among men, it was 35.0 percent; and among women, it was 40.4 percent. The future study cases of this scholastic article are needed to define the reasons for these trends that have been analyzed.\\
+	The last scholastic article review is called Overweight and obesity in India: Policy issues from an exploratory multi-level analysis. (2015, November 13). OUP Academic, there had done the research which was related to the inspect the factor of the effect the prevalence of obesity. There has used a multi-level binomial logit regression model to estimate the binary result in terms of a log-likelihood ratio. The benefit of the purpose of the multi-level modeling that allows intercepts to differ with the respect to the state and city to account for the unviewed macro-level contextual factors of the city beyond the factor of the individual-level. The result of this scholastic article review has displayed the relationship between wealth and the probability of obesity for males is more than females highlight the various effect of increasing socio-economic status on gender.\\
+	In the conclusion of this literature review, the information that has been obtained from these scholastic article review has shown which kind of habit and behavior of people will easily prevalence obesity, and the people who will easily become obese because they have infected with some disease such as hypertension, diabetes, and others before.\\
+
+\section{Methods}
+
+\subsection{Site Location and Measurement of Body Mass Index}
+The aim of this research is to study the USA, year, sex, and age that contribute to the obesity cases. The measurement of BMI is done throughout the USA. The dataset was collected from the CDC. This dataset was uploaded by CDC from the USA. This dataset contains records throughout the USA from the victims diagnosed with obesity with other attributes such as sex, age, education, income, and ethnicity.\\
+The dataset used for this research is almost complete as it has missed the age below 15 (Grade 9) and the total number of people diagnosed with obesity across the nation is not calculated properly but just the proximity, therefore the information with complete data is used in the research.\\
+For the age subsection, the age is grouped into 6 age cohorts, and they are 18-24, 25-34, 35-44, 45-54, 55-64, and lastly 65 and above years old.\\
+Obesity is defined as body mass index (BMI) greater or equal to 30.0; BMI was calculated from self-reported weight and height (weight [kg]/ height [$m^2$). Respondents reporting weight less than 50 pounds or greater or equal to 650 pounds; height less 3 feet or greater or equal to 8 feet; or BMI: <12 or greater or equal to 100 were excluded. Pregnant respondents were also excluded.(CDC,2020). Besides, the BMI and overweight have a direct relationship, if the people's BMI has above a standard stat of the normal weight that could be seen as overweight. Hence, we have used the body mass index to determine the people have prevalence obesity and overweight or not.\\
+Here is the measurement to calculate the Body-Mass Index (BMI) : \\
+
+\begin{center}
+BMI = $ \frac{m}{h^2}$\\
+$BMI = Body Mass Index$\\
+$m = mass (in kilograms)$\\
+$h = height (in meters)$\\
+\end{center}
+
+Quantitative and qualitative designs are used to create categorical as well as numerical data that is then eventually converted into statistics from the national population of the USA. Next page there are graphs that are drawn from the relationship between age group and obesity and in comparison to age group with income to define what's the relationship between these two graphs. To have the precise accuracy in the statistics we've compared 2017 with more recent data.\\
+Moreover, the dataset we used is examined properly to eliminate any sort of repetitive data before analyzing. Thus, unnecessary data are not examined. \\
+
+\subsection{Variables}
+The variables used for the modeling were Body Mass Index (BMI) and obesity which are height (cm), weight (kg), age (years old), the percentage of human body fat, and gender (male or female). The way to calculate the BMI is required to use these kinds of variables and obesity results will refer to the BMI, there has a standard point to define the people is obese or not.\\
+
+\section{Result}
+
+<<file,echo = TRUE>>==
+library(knitr)
+obese.profile <- read.csv("D://Download//Obese2020.csv")
+obese2.profile <- read.csv("D://Download//Obese2018.csv")
+obese3.profile <- read.csv("D://Download//Obese2016.csv")
+@
+<<variable,echo = TRUE>>==
+gender2020 <- obese.profile$Gender
+age2020 <- obese.profile$Age
+BMI2020 <- obese.profile$BMI
+gender2018 <- obese2.profile$sex
+age2018 <- obese2.profile$age
+BMI2018 <- obese2.profile$bmi
+gender2016 <- obese3.profile$sex
+age2016 <- obese3.profile$age
+BMI2016 <- obese3.profile$bmi
+@
+<<library,echo = TRUE>>==
+library(dplyr)
+@
+<<splitting,echo = TRUE>>==
+df20201 <- head(obese.profile,1000)
+df20181 <- head(obese2.profile,1000)
+df20161 <- tail(obese3.profile,1000)
+@
+<<filter,echo = TRUE>>==
+str(df20181)
+df20181$sex<- as.factor(df20181$sex)
+str(df20181)
+df20181$sex<- as.numeric(df20181$sex)
+str(df20181)
+str(df20161)
+df20161$sex<- as.factor(df20161$sex)
+str(df20181)
+str(df20161)
+df20161$sex<- as.numeric(df20161$sex)
+str(df20161)
+str(df20181)
+str(df20161)
+df20202 <- df20201%>%
+  select(Gender,Age,BMI)%>%
+  filter(BMI >= 30)
+df20182 <- df20181%>%
+  select(sex,age,bmi)%>%
+  filter(bmi >= 30)
+df20162 <- df20161%>%
+  select(sex,age,bmi)%>%
+  filter(bmi >= 30)
+@
+<<mean,median,mode,echo = FALSE>>==
+summary(df20202)
+summary(df20182)
+summary(df20162)
+@
+<<libraryggpybr,echo = TRUE>>==
+library("ggpubr")
+@
+
+Figure 1a to figure 3d shows the scatter plot and the regression plot or curve of regression analysis between obesity's BMI and Age in 2020,2018 and 2016. 
+<<normalgraph2020,echo = FALSE>>==
+#plotting_graph_2020(ggplot,plotting)
+plot(y=df20202$BMI,x=df20202$Age, main = "Graph of Age and BMI >= 30 in 2020", xlab="Age",ylab="BMI of obesity people", col="blue")
+abline(h=mean(df20202$BMI),col = "orange")
+@
+Figure 1a
+<<ggplotbmi2020,echo = FALSE>>==
+# BMI2020
+ggqqplot(df20202$BMI, ylab = "BMI",main="Graph of BMI and normal distribution in 2020")
+@
+Figure 1b
+<<ggplotage2020,echo = FALSE>>==
+# AGE2020
+ggqqplot(df20202$Age, ylab = "AGE",main="Graph of AGE and normal distribution in 2020")
+@
+Figure 1c
+<<scatterplot2020,echo = FALSE>>==
+ggscatter(df20202, x = "Age", y = "BMI", 
+          add = "reg.line", conf.int = TRUE, 
+          cor.coef = TRUE, cor.method = "kendall",
+          xlab = "Age", ylab = "BMI of obesity people",main = "Graph of Age and BMI >= 30 in 2020(Kendall)")
+ @         
+Figure 1d
+<<additionalplotting2020,echo = FALSE>>==
+
+plot(y=df20202$BMI,x=df20202$Age, main = "Graph of Age and BMI >= 30 in 2020", xlab="Age",ylab="BMI of obesity people", col="blue", type="n")
+segments(x0=df20202$Age, y0=df20202$BMI, x1=df20202$Age, y1= rep(mean(df20202$BMI)), length(df20202$BMI), col=rgb(0,0,1,0.7))
+abline(h=mean(df20202$BMI),col="orange")
+points(df20202, col=rgb(0,0,1,1), pch=20, cex=1)
+@
+
+Figure 1: Relationship between Age and obesity's BMI in 2020 a) Normal P-P plot of regression analysis. b,c) ggplot of bmi or age and frequecy. d) Scatter plot of obesity's BMI and Age.
+
+<<normalgraph2018,echo = FALSE>>==
+#plotting_graph_2018(ggplot,plotting)
+plot(y=df20182$bmi,x=df20182$age, main = "Graph of Age and BMI >= 30 in 2018", xlab="Age",ylab="BMI of obesity people", col="green")
+abline(h=mean(df20182$bmi),col = "orange")
+@
+Figure 2a
+<<ggplotbmi2018,echo = FALSE>>==
+# BMI2018
+ggqqplot(df20182$bmi, ylab = "BMI",main="Graph of BMI and normal distribution in 2018")
+@
+Figure 2b
+<<ggplotage2018,echo = FALSE>>==
+# AGE2018
+ggqqplot(df20182$age, ylab = "AGE",main="Graph of AGE and normal distribution in 2018")
+@
+Figure 2c
+<<scatterplot2018,echo = FALSE>>==
+ggscatter(df20182, x = "age", y = "bmi", 
+          add = "reg.line", conf.int = TRUE, 
+          cor.coef = TRUE, cor.method = "kendall",
+          xlab = "Age", ylab = "BMI of obesity people",main = "Graph of Age and BMI >= 30 in 2018(Kendall)")
+@
+Figure 2d
+
+<<additionalplotting2018,echo = FALSE>>==
+plot(y=df20182$bmi,x=df20182$age, main = "Graph of Age and BMI >= 30 in 2018", xlab="Age",ylab="BMI of obesity people", col="green", type="n")
+segments(x0=df20182$age, y0=df20182$bmi, x1=df20182$age, y1= rep(mean(df20182$bmi)), length(df20182$bmi), col=rgb(0,1,0,0.7))
+abline(h=mean(df20182$bmi),col="orange")
+points(df20162, col=rgb(0,1,0,1), pch=20, cex=1)
+@
+Figure 2: Relationship between Age and obesity's BMI in 2018 a) Normal P-P plot of regression analysis. b,c) ggplot of bmi or age and frequecy. d) Scatter plot of obesity's BMI and Age.
+<<normalgraph2016,echo = FALSE>>==
+#plotting_graph_2016(ggplot,plotting)
+plot(y=df20162$bmi,x=df20162$age, main = "Graph of Age and BMI >= 30 in 2016", xlab="Age",ylab="BMI of obesity people", col="red")
+abline(h=mean(df20162$bmi),col = "orange")
+@
+Figure 3a
+<<ggplotbmi2016,echo = FALSE>>==
+# BMI2016
+ggqqplot(df20162$bmi, ylab = "BMI",main="Graph of BMI and normal distribution in 2016")
+@
+Figure 3b
+<<ggplotage2016,echo = FALSE>>==
+# AGE2016
+ggqqplot(df20162$age, ylab = "AGE",main="Graph of AGE and normal distribution in 2016")
+@
+Figure 3c
+<<scatterplot2016,echo = FALSE>>==
+ggscatter(df20162, x = "age", y = "bmi", 
+          add = "reg.line", conf.int = TRUE, 
+          cor.coef = TRUE, cor.method = "kendall",
+          xlab = "Age", ylab = "BMI of obesity people",main = "Graph of Age and BMI >= 30 in 2016(Kendall)")
+@         
+Figure 3d
+
+<<additionalplotting2016,echo = FALSE>>==
+plot(y=df20162$bmi,x=df20162$age, main = "Graph of Age and BMI >= 30 in 2016", xlab="Age",ylab="BMI of obesity people", col="red", type="n")
+segments(x0=df20162$age, y0=
+df20162$bmi, x1=df20162$age, y1= rep(mean(df20162$bmi)), length(df20162$bmi), col=rgb(1,0,0,0.7))
+abline(h=mean(df20162$bmi),col="orange")
+points(df20162, col=rgb(1,0,0,1), pch=20, cex=1)
+@
+Figure 3: Relationship between Age and obesity's BMI in 2016 a) Normal P-P plot of regression analysis. b,c) ggplot of bmi or age and frequecy. d) Scatter plot of obesity's BMI and Age.
+
+#Histogram
+<<hist2020,echo = FALSE>>==
+hist(df20201$BMI, main="Histogram of BMI in 2020", xlab="BMI")
+@
+<<hist2018,echo = FALSE>>==
+hist(df20181$bmi, main="Histogram of BMI in 2018", xlab=" BMI")
+@
+<<hist2016,echo = FALSE>>==
+hist(df20161$bmi, main="Histogram of BMI in 2016", xlab=" BMI")
+@
+
+It can be seen from the above bar graph that in 2016 and 2018, the interval with the largest proportion of BMI is 25-35, followed by the interval with 20-25 and 35-40. However, in 2020, BMI is concentrated in the range of 20-30, and the range of 20-25 accounts for the largest proportion, accounting for about 1/3 of the respondents. According to the adult BMI table given by WHO, BMI>25 is overweight. From 2016 to 2018, the number of people with BMI>25 accounted for about 80 percent of the total surveyed population. In 2020, the number of people with BMI>25 accounted for about 40 percent of the total surveyed population, and the number of people with BMI over 30 was greatly reduced. And greatly increased within the normal BMI.
+
+#Boxplot
+<<bxplt2020,echo = FALSE>>==
+boxplot(df20201$BMI, main="Boxplot of 2020 with BMI")
+@
+<<bxplt2018,echo = FALSE>>==
+boxplot(df20181$bmi, main="Boxplot of 2018 with BMI")
+@
+<<bxplt2016,echo = FALSE>>==
+boxplot(df20161$bmi, main="Boxplot of 2016 with BMI")
+@
+
+We can see the change of BMI from 2016 to 2020 from Boxplot. From 2016 to 2018, the average BMI of the survey samples was about 30, and about 50 percent of the samples with BMI below 30. In 2020, the average BMI of the survey samples was about 25, and about 75 percent of the samples with BMI below 30. Specifically, from 2016 to 2018, only about 25 percent of the samples with BMI at normal level (18.5<=BMI<25). In 2020, about 50 percent of the samples with BMI at normal level (18.5<=BMI<25) increased by about 25 percent compared with 2018, and the samples with BMI over 30 decreased to 25 percent. It can be seen from this that after 2018, the obesity rate has dropped significantly, and people are paying more and more attention to their health.
+<<dat20201816,echo = TRUE>>==
+number_obesity2020 <-(length(which( df20202$BMI >= 30))/1000)*100
+number_obesity2020
+number_obesity2018 <-(length(which( df20182$bmi >= 30))/1000)*100
+number_obesity2018
+number_obesity2016 <-(length(which( df20162$bmi>= 30))/1000)*100
+number_obesity2016
+obesity12020 <- df20201%>%
+  select(BMI)%>%
+  filter(BMI >= 30 & BMI < 35)
+obesity12018 <- df20181%>%
+  select(bmi)%>%
+  filter(bmi >= 30 & bmi < 35)
+obesity12016 <- df20161%>%
+  select(bmi)%>%
+  filter(bmi >= 30 & bmi < 35)
+obesity22020 <- df20201%>%
+  select(BMI)%>%
+  filter(BMI >= 35 & BMI < 40)
+obesity22018 <- df20181%>%
+  select(bmi)%>%
+  filter(bmi >= 35 & bmi < 40)
+obesity22016 <- df20161%>%
+  select(bmi)%>%
+  filter(bmi >= 35 & bmi < 40)
+obesity32020 <- df20201%>%
+  select(BMI)%>%
+  filter(BMI >= 40)
+obesity32018 <- df20181%>%
+  select(bmi)%>%
+  filter(bmi >= 40)
+obesity32016 <- df20161%>%
+  select(bmi)%>%
+  filter(bmi >= 40)
+preobesity2020 <- df20201%>%
+  select(BMI)%>%
+  filter(BMI >= 25 & BMI < 30)
+preobesity2018 <- df20181%>%
+  select(bmi)%>%
+  filter(bmi >= 25 & bmi < 30)
+preobesity2016 <- df20161%>%
+  select(bmi)%>%
+  filter(bmi >= 25 & bmi < 30)
+normal2020 <- df20201%>%
+  select(BMI)%>%
+  filter(BMI >= 18.5 & BMI < 25)
+normal2018 <- df20181%>%
+  select(bmi)%>%
+  filter(bmi >= 18.5 & bmi < 25)
+normal2016 <- df20161%>%
+  select(bmi)%>%
+  filter(bmi >= 18.5 & bmi < 25)
+under2020 <- df20201%>%
+  select(BMI)%>%
+  filter(BMI < 18.5 )
+under2018 <- df20181%>%
+  select(bmi)%>%
+  filter(bmi < 18.5)
+under2016 <- df20161%>%
+  select(bmi)%>%
+  filter(bmi < 18.5)
+o120 <- as.numeric(count(obesity12020))
+o118 <- as.numeric(count(obesity12018))
+o116 <- as.numeric(count(obesity12016))
+o220 <- as.numeric(count(obesity22020))
+o218 <- as.numeric(count(obesity22018))
+o216 <- as.numeric(count(obesity22016))
+o320 <- as.numeric(count(obesity32020))
+o318 <- as.numeric(count(obesity32018))
+o316 <- as.numeric(count(obesity32016))
+po20 <- as.numeric(count(preobesity2020))
+po18 <- as.numeric(count(preobesity2018))
+po16 <- as.numeric(count(preobesity2016))
+n20 <- as.numeric(count(normal2020))
+n18 <- as.numeric(count(normal2018))
+n16 <- as.numeric(count(normal2016))
+u20 <- as.numeric(count(under2020))
+u18 <- as.numeric(count(under2018))
+u16 <- as.numeric(count(under2016))
+obesity1 <- c(o120,o118,o116)
+obesity2 <- c(o220,o218,o216)
+obesity3 <- c(o320,o318,o316)
+preobesity <- c(po20,po18,po16)
+normal <- c(n20,n18,n16)
+under <- c(u20,u18,u16)
+obesity1
+obesity2
+obesity3
+preobesity
+normal
+under
+#Barchart
+total <- data.frame("2020" = c(u20,n20,po20,o120,o220,o320),"2018"=c(u18,n18,po18,o118,o218,o318),"2016"=c(u16,n16,po16,o116,o216,o316))
+total
+dat <- read.table(text = "X2020 X2018 X2016
+1    34    13    14
+2   410   161   180
+3   242   286   272
+4   170   288   298
+5    84   182   159
+6    60    70    77",header = TRUE)
+@
+<<barplot20201816,echo = FALSE>>==
+barplot(as.matrix(dat),main="Amount of people based on Years", xlab="Years", ylab="Number of people",names.arg = c("2020","2018","2016"),col=c("darkblue","green","yellow","orange","red","darkred"))
+legend("topright",c("UnderWeight(BMI<18.5)","Normal(BMI>=18.5>25)","PreObese(BMI>=25>30)","Obesity1(BMI>=30>35)","Obesity2(BMI>=35>40)","Obesity3(BMI>=40)"),fill=c("darkblue","green","yellow","orange","red","darkred"),cex=0.7)
+@
+According to the bar graph, there have shown the physical condition of a thousand people for three years which are 2020, 2018, and 2016. As the result, there can see in 2016 there have almost 200 people who are the group of preobese, and more than five hundred people are in the group of Obesity 1, Obesity 2, and Obesity 3. Hence, there can be seen as there have more than half of the participants were obese from 2016's graph.
+For 2018's bar graph, the number of obese people had grown a bit, and the number of people who have a normal physical condition had been dropped because their BMI had increased and classified into the group of preobese. At the last, for the 2020's bar graph, there can see the number of people who are in the group of obese had decreased and the group of people who has normal physical condition had a dramatic increase almost 200.
+In the conclusion of these three graphs, there can do a prediction about the number of people who have obese will be decreased each year. In addition, the group of people who is underweight would have an increase trend based on the graph, because there can see the number of people who are underweight have increased double in 2020's graph.
+
+<<pie2020,echo = TRUE>>==
+#Piechart_2020
+pctg_u20=(u20/1000)*100
+pctg_n20=(n20/1000)*100
+pctg_po20=(po20/1000)*100
+pctg_o120=(o120/1000)*100
+pctg_o220=(o220/1000)*100
+pctg_o320=(o320/1000)*100
+total2 <- data.frame("2020"=c(pctg_u20,pctg_n20,pctg_po20,pctg_o120,pctg_o220,pctg_o320))
+total2
+dat2 <- read.table(text="X2020
+1   3.4
+2  41.0
+3  24.2
+4  17.0
+5   8.4
+6   6.0",header=TRUE)
+@
+<<piechrt2020,echo = FALSE>>==
+pie(as.matrix(dat2),main="Pie Chart of precentage of BMIs in 2020", labels = c("3.4 percent ","41.0 percent","24.2 percent","17.0 percent","8.4 percent","6.0 percent"),col=c("darkblue","green","yellow","orange","red","darkred"))
+legend("topright",c("UnderWeight(BMI<18.5)","Normal(BMI>=18.5>25)","PreObese(BMI>=25>30)","Obesity1(BMI>=30>35)","Obesity2(BMI>=35>40)","Obesity3(BMI>=40)"),fill=c("darkblue","green","yellow","orange","red","darkred"),cex=0.7)
+@
+<<pie2018,echo = TRUE>>==
+#Piechart_2018
+pctg_u18=(u18/1000)*100
+pctg_n18=(n18/1000)*100
+pctg_po18=(po18/1000)*100
+pctg_o118=(o118/1000)*100
+pctg_o218=(o218/1000)*100
+pctg_o318=(o318/1000)*100
+total3 <- data.frame("2018"=c(pctg_u18,pctg_n18,pctg_po18,pctg_o118,pctg_o218,pctg_o318))
+total3
+dat3 <- read.table(text="X2018
+1   1.3
+2  16.1
+3  28.6
+4  28.8
+5  18.2
+6   7.0",header=TRUE)
+@
+<<piechrt2018,echo = FALSE>>==
+pie(as.matrix(dat3),main="Pie Chart of precentage of BMIs in 2018", labels = c("1.3 percent ","16.1 percent","28.6 percent","28.8 percent","18.2 percent","7.0 percent"),col=c("darkblue","green","yellow","orange","red","darkred"))
+legend("topright",c("UnderWeight(BMI<18.5)","Normal(BMI>=18.5>25)","PreObese(BMI>=25>30)","Obesity1(BMI>=30>35)","Obesity2(BMI>=35>40)","Obesity3(BMI>=40)"),fill=c("darkblue","green","yellow","orange","red","darkred"),cex=0.7)
+@
+<<pie2016,echo = TRUE>>==
+#Piechart_2016
+pctg_u16=(u16/1000)*100
+pctg_n16=(n16/1000)*100
+pctg_po16=(po16/1000)*100
+pctg_o116=(o116/1000)*100
+pctg_o216=(o216/1000)*100
+pctg_o316=(o316/1000)*100
+total4 <- data.frame("2016"=c(pctg_u16,pctg_n16,pctg_po16,pctg_o116,pctg_o216,pctg_o316))
+total4
+dat4 <- read.table(text=" X2016
+1   1.4
+2  18.0
+3  27.2
+4  29.8
+5  15.9
+6   7.7",header=TRUE)
+@
+<<piechrt2016,echo = FALSE>>==
+pie(as.matrix(dat4),main="Pie Chart of precentage of BMIs in 2016", labels = c("1.4 percent ","18.0 percent","27.2 percent","29.8 percent","15.9 percent","7.7 percent"),col=c("darkblue","green","yellow","orange","red","darkred"))
+legend("topright",c("UnderWeight(BMI<18.5)","Normal(BMI>=18.5>25)","PreObese(BMI>=25>30)","Obesity1(BMI>=30>35)","Obesity2(BMI>=35>40)","Obesity3(BMI>=40)"),fill=c("darkblue","green","yellow","orange","red","darkred"),cex=0.7)
+@
+According to the above pie chart, we can see that from 2016 to 2018, the proportion of BMI in each stage of the investigated samples is almost the same. The main intervals of BMI in the samples are pre-obesity (BMI > = 25 > 30) and Obesity1(BMI>=30>35), followed by Normal(BMI>=25>30) and obesity BMI below 25 accounted for less than 30 percent of the samples. However, by 2020, the range with the largest proportion is Normal(BMI>=25>30), which accounts for 41 percent of the survey samples, which is about twice higher than that in 2016 and 2018. The following are Normal(BMI>=25>30) and Obesity2(BMI>=34>40). And in 2020, the samples in the interval of Obesity1(BMI>=30>35) and Obesity2(BMI>=34>40) decreased by 10 percent compared with those in 2016 and 2018, which shows that people began to gradually deepen their awareness of health.
+
+<<ci20201816,echo = TRUE>>==
+Confidence Interval
+2020\\
+res2020 <- cor.test(df20201$Age, df20201$BMI, method = "kendall")
+res2020
+2018\\
+res2018 <- cor.test(df20181$age, df20181$bmi, method = "kendall")
+res2018
+2016\\
+res2016 <- cor.test(df20161$age, df20161$bmi, method = "kendall")
+res2016
+@
+<<lm2020,echo = FALSE>>==
+#linear_regression_2020
+plot(y=df20201$BMI,x=df20201$Age, main = "Graph of Age and BMI in 2020", xlab="Age",ylab="BMI of obesity people", col="blue")
+linearMod=lm(df20201$BMI ~ df20201$Age)
+abline(linearMod)
+summary(linearMod)
+df20203 <- tail(obese.profile,1000)
+predict(linearMod,data.frame(Age=df20203$Age),level=0.9,interval="confidence")
+cor(df20201$Age,df20201$BMI,method="kendall")
+cor.test(df20201$Age,df20201$BMI,method="kendall")
+@
+<<lm2018,echo = FALSE>>==
+#linear_regression_2018
+plot(y=df20181$bmi,x=df20181$age, main = "Graph of Age and BMI in 2018", xlab="Age",ylab="BMI of obesity people", col="blue")
+abline(lm(df20181$bmi ~ df20181$age))
+summary(lm(df20181$bmi ~ df20181$age))
+df20183 <- tail(obese.profile,1000)
+predict(linearMod,data.frame(age=df20183$age),level=0.9,interval="confidence")
+cor(df20181$age,df20181$bmi,method="kendall")
+cor.test(df20181$age,df20181$bmi,method="kendall")
+@
+<<lm2016,echo = FALSE>>==
+#linear_regression_2016
+plot(y=df20161$bmi,x=df20161$age, main = "Graph of Age and BMI in 2016", xlab="Age",ylab="BMI of obesity people", col="blue")
+abline(lm(df20161$bmi ~ df20161$age))
+summary(lm(df20161$bmi ~ df20161$age))
+df20163 <- tail(obese.profile,1000)
+predict(linearMod,data.frame(age=df20163$age),level=0.9,interval="confidence")
+cor(df20161$age,df20161$bmi,method="kendall")
+cor.test(df20161$age,df20161$bmi,method="kendall")
+@
+
+It can be seen from the above plot graph that in 2016, 2018, and 2020, there have displayed the Body Mass Index for each group, the graph is plotted by using the dataset which has obtained from the Centers for Disease Control and Prevention (CDC) and World Health Organization (WHO). Besides, there is using linear regression to plot the graph as well, so that can view the graph more clearly and do the obesity prevalence prediction based on the graphs and results. As the result, there can be seen from the plot graph of 2020, 2018, and 2016, the Body Mass Index of each group is increasing especially for the young age group in the latest year. The graphs have also shown the age group of from 55 to 70, their Body Mass Index has decreased in the data of 2020 and 2018 from BMI equal to 45 to BMI equal to 40. Hence, there can do the prediction of the age group from 55 to 70, their BMI will be decreased slowly in the future year.
+From the plotting graphs, the prevalence of obesity is happening seriously in the age group which is from 18 to 45 in every year, so there can get to know the group of people who don't have the diet habit or healthy lifestyle and their health also are alerting. The graphs have also shown the p-value is 0.0006, hence the result can be rejected as the null hypothesis because the p-value is the largest that has been obtained. In addition, there can also obtain the result from these three graphs which are the difference is 0.07, and it is smaller 0.05 than the alpha value.  Hence, there can be regarding graph that has shown, we can predict the obesity will be a more serious issue in society, and the cases and prevalence of obesity will increase in the future for the young age group.
+
+<<glm2020,echo = FALSE>>==
+#logistic_regression_2020
+str(df20201)
+x<- as.factor(df20201$BMI)
+fit = glm(x ~ Age, data=df20201, family=binomial)
+df20203 <- data.frame(Age=seq(min(df20201$Age), max(df20201$Age),len=100))
+df20203$BMI = predict(fit, newdata=df20203, type="response")
+plot(BMI~Age, data=df20203, col="red4")
+lines(df20203$BMI ~ df20203$Age, , col="green4", lwd=2)
+@
+<<glm2018,echo = FALSE>>==
+#logistic_regression_2018
+str(df20181)
+x2<- as.factor(df20181$bmi)
+fit = glm(x2 ~ age, data=df20181, family=binomial)
+df20183 <- data.frame(age=seq(min(df20181$age), max(df20181$age),len=100))
+df20183$bmi = predict(fit, newdata=df20183, type="response")
+plot(bmi~age, data=df20183, col="red4")
+lines(df20183$bmi ~ df20183$age, , col="green4", lwd=2)
+@
+<<glm2016,echo = FALSE>>==
+#logistic_regression_2016
+str(df20161)
+x3 <- as.factor(df20161$bmi)
+fit = glm(x3 ~ age, data=df20161, family=binomial)
+df20163 <- data.frame(age=seq(min(df20161$age), max(df20161$age),len=100))
+df20163$bmi = predict(fit, newdata=df20163, type="response")
+plot(bmi~age, data=df20163, col="red4")
+lines(df20163$bmi ~ df20163$age, , col="green4", lwd=2)
+@
+The dataset is made into statistics using logistic regression. In 2016 the graph has shown a gradual increase in obesity as age is increasing. The older the individual, the higher the risk of getting diagnosed with obesity. In 2018, the statistics have indicated that the BMI in almost every age group has increased significantly. In 2020 the samples of the interval of Obesity according to the graph, it's said to have decreased by 10 percent. The 3 graphs have shown a difference of 0.007. The P-value that has obtained from the result, which is 0.0006 so the p-value can't be rejected as a null hypothesis value and there should use in the result part. Besides, the result has also shown that is smaller 0.05 than the alpha value.
+<<anova2020,echo = TRUE>>==
+#ANOVA2020
+df20201$Age= as.factor(df20201$Age)
+aov.out = aov(BMI ~ Age, data=df20201)
+<<tuk2020,echo = FALSE>>==
+summary(aov.out)
+TukeyHSD(aov.out)
+summary.lm(aov.out)
+<<bar2020,echo = FALSE>>==
+bartlett.test(BMI ~ Age, data=df20201)
+plot(aov.out)
+@
+<<kkl2020,echo = FALSE>>==
+kruskal.test(BMI ~ Age, data=df20201)
+summary.aov(lm(df20201$BMI ~ df20201$Age))
+@
+<<anova2018,echo = TRUE>>==
+#ANOVA2018
+df20181$age= as.factor(df20181$age)
+aov.out = aov(bmi ~ age, data=df20181)
+@
+<<tuk2018,echo = FALSE>>==
+summary(aov.out)
+TukeyHSD(aov.out)
+summary.lm(aov.out)
+@
+<<bar2018,echo = FALSE>>==
+bartlett.test(bmi ~ age, data=df20181)
+plot(aov.out)
+@
+<<kkl2018,echo = FALSE>>==
+kruskal.test(bmi ~ age, data=df20181)
+summary.aov(lm(df20181$bmi ~ df20181$age))
+@
+<<anova2016,echo = TRUE>>==
+#ANOVA2016
+df20161$age= as.factor(df20161$age)
+aov.out = aov(bmi ~ age, data=df20161)
+@
+<<tuk2016,echo = FALSE>>==
+summary(aov.out)
+TukeyHSD(aov.out)
+summary.lm(aov.out)
+@
+<<bar2016,echo = FALSE>>==
+bartlett.test(bmi ~ age, data=df20161)
+plot(aov.out)
+@
+<<kkl2016,echo = FALSE>>==
+kruskal.test(bmi ~ age, data=df20161)
+summary.aov(lm(df20181$bmi ~ df20161$age))
+@
+
+The graphs that have shown above that has done the Analysis of Variance (Anova), the can see the result at the console about the TukeyHSD and Kruskal of the datasets which are 2016, 2018, and 2020. At each year's resulting console, that can see the TukeyHSD have shown the difference in the observed means, the lower endpoint of the interval (lwr), and the upper-end point of the interval (Upper) for each group. Besides, the positive or negative value of the difference in the observed means, that doesn't affect the dataset result.
+The 2016's Kruskal test, that has obtained the p-value equal to 0.1103, so the p-value can't be rejected as a null hypothesis. Besides, there has also got the Kruskal-Wallis chi-squared is equal to 58.006 and the Kruskal Wallis test is less than it, so that can't be rejected as a null hypothesis too.
+The 2018's Kruskal test, that has shown the p-value equal to 0.937, which is a large value to the p-value, and the p-value which is greater than 0.005 that can't be rejected as a null hypothesis too. In addition, there has also got the Kruskal-Wallis chi-squared is equal to 32.298 and that is greater than the Kruskal Wallis test.
+At the last Kruskal test of 2020, there has displayed a p-value smaller than 2.2e-16, which can't be rejected as a null hypothesis too. And, its Kruskal-Wallis chi-squared is equal to 214.05.
+
+
+
+
+
+
+\section{Discussion}
+The main problem to solve here is obesity. As the method is provided, the main thing to achieve now is to spread the awareness of the danger of obesity, since it is not listed as one of the lethal diseases.\\
+First, the patient himself needs to be aware of their state of health and their physical condition. If the patient himself is not going to pay attention to their own condition, nobody is going to provide assistance to them. Other than that, the medical industry should also raise a campaign to provide information on how terrible is obesity in the human body. Activities such as free run, competition, fundraising could collaborate with this campaign and widely spread the reputation of the campaign.\\
+The medical industry should also provide speeches to students to avoid being obese at first. Posting up posters on hospitals or on social media is also a good idea to attract the attention of other peoples. It is important to acknowledge every people the harm of being obese. Free BMI tests could also be provided by the hospitals to roughly calculate those overweighted people's risk of getting several diseases. The main vision of this project is to understand the dangers of obesity clearly, and spread awareness of it.\\
+A lot of people ignore the dangers of obesity, especially in the US. They treat obesity as a very common condition, because of how universal it is. In a matter of fact, obesity brings a lot of negative health issues to obese people. For example, three main diseases commonly come with obesity, which is called The Three Highs. They are high blood pressure, high blood glucose, and high cholesterol. Each of this condition can cause more diseases to appear, such as Cardiovascular diseases, Metabolic syndrome, diabetes, dementia, and more, and most of these diseases are the main cause of deaths in the world, millions of people die from each mentioned diseases. To truly achieve our vision, we will provide proof of the danger and the severity of obesity with statistical data. Other than that, a conclusion will be provided by analyzing the data.\\
+The limitation of this study paper is there have not enough open-source dataset that can provide us to do the analysis and view, which could only obtain the old data. Hence, we only can do the prediction and trend that had already done by others. We will do another study case when we have found the latest dataset about obesity, and learn more analysis skills to make it better.\\
+
+\section{Conclusion}
+In conclusion, obesity does serious damage to health. Not only it brings diseases, but it also increases the inconvenience in people's lives. Not only it costs a huge amount of money in medical treatments and consumption, the pain that the patient has to suffer is also psychological torture to them. Currently, there is not much we can do but only to bear their burden economically and psychologically. The most effective solution is to solve its source. As the saying goes "prevention is better than cure", the awareness of preventing obesity is the best cure for it. People need to live a healthy life, take a balanced diet, exercise more to get away from negative medical conditions and diseases like this. The whole world needs to be aware of the dangers of these harmful diseases to actually lower the rate of getting diseases.\\
+This report is only statistical data that provides proof of the danger of obesity, the best solution to deal with this is the action that everyone takes. Together, people can be strong and can solve every problem. We should all try to spread awareness of this problem since it is a global issue.\\
+At last, the most important step is to secure your own health. Self-health awareness is very important in eliminating negative medical conditions and diseases. Controlling diet and exercising is a good way to strengthen immunity to oneself. Due to overweight is becoming a serious issue around the world, so everyone should care about these issues as well.\\
+
+\section{Citation}
+Centers for Disease Control and Prevention.National Center for Chronic Disease Prevention and Health Promotion, Division of Nutrition, Physical Activity, and Obesity.Data, Trend and Maps [online]. [accessed Nov 20, 2020].\\
+Malaysia and WHO call for more investment in primary health care the 21st century. (2019, April 8). WHO | World Health Organization.\\
+Measuring obesity. (2016, April 12). Obesity Prevention Source.\\
+Other factors in weight gain. (2020, August 17). Centers for Disease Control and Prevention.\\
+Bluher, M., 2019. Obesity: global epidemiology and pathogenesis. Nature Reviews Endocrinology, 15(5), pp.288-298.\\
+National Heart, Lung, Blood Institute and North American Association for the Study of Obesity, 2000. The practical guide: identification, evaluation, and treatment of overweight and obesity in adults. The Institute.\\
+Obesity during the COVID-19 pandemic: Cause of high risk or an effect of lockdown? A population-based electronic health record analysis in 1 958 184 individuals. (2020, June 23). medRxiv. https://www.medrxiv.org/content/10.1101/2020.06.22.20137182v1\\
+BMI-for-age graphs with severe obesity percentile curves: Tools for plotting cross-sectional and longitudinal youth BMI data. (n.d.). BMC Pediatrics. https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-017-0885-x\\
+Spatial index relating urban environment to health lifestyle and obesity risk in men and women from different age groups. (2020, March 12). PLOS. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229961\\
+Trends in obesity among adults in the United States, 2005 to 2014. (2016, June 7). JAMA Network | Home of JAMA and the Specialty Journals of the American Medical Association. https://jamanetwork.com/article.aspx?doi=10.1001/jama.2016.6458\\
+Overweight and obesity in India: Policy issues from an exploratory multi-level analysis. (n.d.). PubMed.\\
+Prevalence and associates of obesity and overweight among school-age children in a rural community of Thailand. (n.d.). PubMed Central (PMC). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6528063/\\
+Obesity and overweight in patients with hemophilia Prevalence by age, clinical correlates, and impact on joint bleeding. (n.d.). Wolters Kluwer.\\
+
+
+\end{document}
+
